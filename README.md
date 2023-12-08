@@ -88,7 +88,7 @@ accelerate-launch sample.py -c CONFIG \
 
 ### MNIST
 
-|                 $z$                 |               $f(z)$                |              $f(f(z))$              |            $f(f(f(z)))$             |
-| :---------------------------------: | :---------------------------------: | :---------------------------------: | :---------------------------------: |
-| ![](./assets/ign-mnist-repeat0.png) | ![](./assets/ign-mnist-repeat1.png) | ![](./assets/ign-mnist-repeat2.png) | ![](./assets/ign-mnist-repeat3.png) |
+|                 z                 |               f(z)                |              f(f(z))              |            f(f(f(z)))             |
+| :-------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
+| ![](assets/ign-mnist-repeat0.png) | ![](assets/ign-mnist-repeat1.png) | ![](assets/ign-mnist-repeat2.png) | ![](assets/ign-mnist-repeat3.png) |
 
